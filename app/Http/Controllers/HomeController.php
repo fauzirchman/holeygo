@@ -20,4 +20,9 @@ class HomeController extends Controller
     {
         return view('popular');
     }
+
+    public function group()
+    {
+        return view('group');
+    }
 }

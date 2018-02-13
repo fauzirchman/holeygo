@@ -15,3 +15,4 @@ Auth::routes();
 
 Route::get('/', 'HomeController@index')->name('home');
 Route::get('/popular', 'HomeController@popular')->name('popular');
+Route::get('/group', 'HomeController@group')->name('group');
