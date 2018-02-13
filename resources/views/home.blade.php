@@ -1,19 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-@if (session('status'))
-<div class="card card-default">
-
-    <div class="card-body">
-        <div class="alert alert-success">
-            {{ session('status') }}
-        </div>        
-    </div>
-
-</div>
-<br>
-@endif
-
 <div class="card card-default">
 
     <div class="card-body">
