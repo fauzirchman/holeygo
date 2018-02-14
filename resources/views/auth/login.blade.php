@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card card-default">
-                <div class="card-header">Login</div>
+                <div class="card-header">Login <a href="{{ route('register') }}" class="float-right">Register</a></div>
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('login') }}">
