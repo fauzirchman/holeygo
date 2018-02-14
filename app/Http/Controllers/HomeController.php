@@ -25,4 +25,9 @@ class HomeController extends Controller
     {
         return view('group');
     }
+
+    public function store()
+    {
+        return view('store');
+    }
 }

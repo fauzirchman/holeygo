@@ -29,7 +29,7 @@
                     <ul class="navbar-nav mr-auto">
                         <li><a class="nav-link" href="{{ route('popular') }}">Popular</a></li>
                         <li><a class="nav-link" href="{{ route('group') }}">Group</a></li>
-                        <li><a class="nav-link" href="#">Store</a></li>
+                        <li><a class="nav-link" href="{{ route('store') }}">Store</a></li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->
