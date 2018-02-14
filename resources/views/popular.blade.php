@@ -102,13 +102,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="https://i.ytimg.com/vi/fdnDGe58lW0/maxresdefault.jpg" alt="First slide">
+      <img class="d-block w-100" src="http://via.placeholder.com/1280x400" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://i.ytimg.com/vi/fdnDGe58lW0/maxresdefault.jpg" alt="Second slide">
+      <img class="d-block w-100" src="http://via.placeholder.com/1280x400" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="https://i.ytimg.com/vi/fdnDGe58lW0/maxresdefault.jpg" alt="Third slide">
+      <img class="d-block w-100" src="http://via.placeholder.com/1280x400" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
