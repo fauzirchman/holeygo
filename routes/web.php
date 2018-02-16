@@ -19,5 +19,7 @@ Route::get('/group', 'HomeController@group')->name('group');
 Route::get('/store', 'HomeController@store')->name('store');
 
 Route::get('/users/profile', 'UsersController@profile')->name('users.profile');
+Route::get('/users/profile/edit', 'UsersController@edit_profile')->name('users.profile.edit');
+Route::put('/users/profile/update', 'UsersController@update_profile')->name('users.profile.update');
 
 Route::resource('admin/users', 'Admin\UsersController');
